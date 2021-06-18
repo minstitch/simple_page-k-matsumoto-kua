@@ -19,7 +19,7 @@ img{
 }
 
 .wrapper{
-  max-width: 600px;
+  max-width: 800px;
   margin: 0 auto;
   background-color: #fff;
   padding: 10px;
@@ -31,6 +31,10 @@ img{
   text-align: center;
 }
 
+#card img{
+  width: 100%;
+}
+
 
 /* 名前 */
 h1.name{
@@ -38,6 +42,7 @@ h1.name{
   font-size: 20px;
   padding-left: 10px;
   margin-bottom: 10px;
+  color: #ff00ff;
 }
 
 /* 経歴部分 */
